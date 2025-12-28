@@ -236,5 +236,6 @@ All AI-generated outputs were manually reviewed, tested, and validated to ensure
 **Score:** 4 out of 5
 
 ### Justification
+
 The use of AI tools significantly reduced development time by accelerating boilerplate generation, UI scaffolding, and debugging workflows. While AI-generated code required manual verification and refinement—particularly for business logic and security-sensitive areas the overall productivity gain was substantial, resulting in a faster and more structured development process.
 ---
